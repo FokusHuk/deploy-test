@@ -17,6 +17,7 @@ kind: Ingress
 metadata:
   name: {{ $fullName }}
   labels:
+    test: true
     {{- include "demo.labels" . | nindent 4 }}
   {{- with .Values.ingress.annotations }}
   annotations:
