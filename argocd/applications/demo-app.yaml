@@ -28,7 +28,7 @@ spec:
 
       # Values file as block file
       values: |
-        replicaCount: 4
+        # replicaCount: 2
         serviceAccount:
           create: true
           annotations:
