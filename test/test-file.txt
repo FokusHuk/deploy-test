@@ -1,8 +1,8 @@
 ﻿Test test
 [1] - first
 [2] - second
-[2.5] - something
+[2.5] - two and a half
 [3] - third
 [4] - four
 
-end
+for the end
